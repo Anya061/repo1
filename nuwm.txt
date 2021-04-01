@@ -7,3 +7,4 @@ one more nice code block//new text
 =======
 //hello
 >>>>>>> test_feature
+//зміни файлу
